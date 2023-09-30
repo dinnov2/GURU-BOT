@@ -18,33 +18,33 @@ import {
   「 ${botname} あ⁩ 」\n
   *%ucpn*
  
- 乂───『 *U S E R*』───乂
- ⛥ *Name:* %name
-  ⛥ *Gold:* %credit
-  ⛥ *Role:* %role
-  ⛥ *Level:* %level [ %xp4levelup Xp For Levelup]
-  ⛥ *Xp:* %exp / %maxexp
-  ⛥ *Total Xp:* %totalexp
+ ㊙───〔𝑼𝑺𝑬𝑹〕───㊙
+ ⌬ *Name:* %name
+  ⌬ *Gold:* %credit
+  ⌬ *Role:* %role
+  ⌬ *Level:* %level [ %xp4levelup Xp For Levelup]
+  ⌬ *Xp:* %exp / %maxexp
+  ⌬ *Total Xp:* %totalexp
   ╰──────────⳹
  
-  乂───『 *I N F O*』───乂
-  ⛥ *Bot Name:* ${botname}
-  ⛥ *Mode:* %mode
-  ⛥ *Platform:* %platform
-  ⛥ *Type:* NodeJs
-  ⛥ *Baileys:* Multi Device
-  ⛥ *Prefix:* [ *%_p* ]
-  ⛥ *Uptime:* %muptime
-  ⛥ *Database:*  %totalreg
+  ㊙───〔𝑰𝑵𝑭𝑶〕───㊙
+  ⌬ *Bot Name:* ${botname}
+  ⌬ *Mode:* %mode
+  ⌬ *Platform:* %platform
+  ⌬ *Type:* NodeJs
+  ⌬ *Baileys:* Multi Device
+  ⌬ *Prefix:* [ *%_p* ]
+  ⌬ *Uptime:* %muptime
+  ⌬ *Database:*  %totalreg
   ╰──────────⳹
   
-  乂───『 *I N F O  C M D*』───乂 
+  ㊙───〔𝑪𝑴𝑫 𝑰𝑵𝑭𝑶〕───㊙ 
   │ *%totalfeatures* Commands
   ╰──────────⳹
  %readmore
  `.trimStart(),
  header: "✦ ───『 *%category* 』─── ⚝",
- body: "◈ %cmd %isPremium %islimit",
+ body: "☣ %cmd %isPremium %islimit",
  footer: "╰──────────⳹",
  after: "\n%me",
  }
