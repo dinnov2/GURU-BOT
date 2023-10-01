@@ -4,7 +4,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 
     // Sound
     let name = m.pushName || conn.getName(m.sender)
-    var vn = "https://raw.githubusercontent.com/Kai0071/A17/master/Assets/audio/🔥.mp3"
+    var vn = "shttps://tinyurl.com/yl9paoek"
     let url = "https://github.com/Guru322/GURU-BOT"
     let murl = "https://youtu.be/DibiLc17dh0?si=xp9bQ-_frEyDB1-i"
     let img = "https://cdn.wallpapersafari.com/71/19/7ZfcpT.png"
@@ -22,9 +22,9 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "I AM ALIVE",
-          body: "GURU BOT",
+          body: "ᴅɪɴɴᴏ ʙᴏᴛ",
           thumbnailUrl: img,
-          sourceUrl: 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp',
+          sourceUrl: 'https://chat.whatsapp.com/K8FZl2G4ZaaCdHfc1ichF8',
           mediaType: 1,
           renderLargerThumbnail: true
           }}
